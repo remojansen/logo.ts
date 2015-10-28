@@ -10,3 +10,7 @@ I'm releasing this under a MIT license so you can print it on anything, use it a
 Enjoy.
 
 ![TS Logo (PNG)](ts.png)
+
+Stickers available at [RedBubble](http://www.redbubble.com/people/owerreloaded/works/17165938-typescript?p=sticker)
+
+![TS Logo (PNG)](stickers/sticker.jpg)
