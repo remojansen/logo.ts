@@ -14,3 +14,7 @@ Enjoy.
 Stickers available at [RedBubble](http://www.redbubble.com/people/owerreloaded/works/17165938-typescript?p=sticker)
 
 ![TS Logo (PNG)](stickers/sticker.jpg)
+
+Stickers available at [Stickermule](https://www.stickermule.com/marketplace/10074-typescript)
+
+![](https://d21ii91i3y6o6h.cloudfront.net/gallery_images/from_proof/10074/large/1455714081/typescript.png)
