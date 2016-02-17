@@ -1,6 +1,8 @@
 A community logo for TypeScript 
 ================================
 
+**NOTE** This is NOT the official TypeScript logo. The official TypeScript logo can be found [here](https://github.com/Microsoft/TypeScript/blob/master/doc/logo.svg).
+
 I wanted to add a [TypeScript](http://www.typescriptlang.org/) sticker to my laptop but I could not find what I was looking for so I decided to create a typed superset of [logo.js](https://github.com/voodootikigod/logo.js).
 
 If you like it use it, if you don't that's cool too. Just don't complain unless you want to offer a different one, post your alternative to twitter with the tag #tslogo.
