@@ -1,4 +1,4 @@
-TypeScript Logo By The Community
+A community logo for TypeScript 
 ================================
 
 I wanted to add a [TypeScript](http://www.typescriptlang.org/) sticker to my laptop but I could not find what I was looking for so I decided to create a typed superset of [logo.js](https://github.com/voodootikigod/logo.js).
