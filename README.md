@@ -20,3 +20,7 @@ Stickers available at [RedBubble](http://www.redbubble.com/people/owerreloaded/w
 Stickers available at [Stickermule](https://www.stickermule.com/marketplace/10074-typescript)
 
 ![](https://d21ii91i3y6o6h.cloudfront.net/gallery_images/from_proof/10074/large/1455714081/typescript.png)
+
+Anders Hejlsberg approves :+1:
+
+![](https://raw.githubusercontent.com/remojansen/logo.ts/master/stickers/Screen%20Shot%202016-03-31%20at%2000.05.02.png)
