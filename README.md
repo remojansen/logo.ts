@@ -17,6 +17,10 @@ Stickers available at [RedBubble](http://www.redbubble.com/people/owerreloaded/w
 
 ![TS Logo (PNG)](stickers/sticker.jpg)
 
+Tshirt available at [RedBubble](http://www.redbubble.com/people/owerreloaded/works/17165938-typescript?p=triblend-tee&style=triblend-tee&body_color=black_triblend&print_location=front)
+
+![](https://raw.githubusercontent.com/remojansen/logo.ts/master/stickers/tshirt.jpg)
+
 Stickers available at [Stickermule](https://www.stickermule.com/marketplace/10074-typescript)
 
 ![](https://d21ii91i3y6o6h.cloudfront.net/gallery_images/from_proof/10074/large/1455714081/typescript.png)
