@@ -11,7 +11,7 @@ I'm releasing this under a MIT license so you can print it on anything, use it a
 
 Enjoy.
 
-![TS Logo (PNG)](ts.png)
+<img width=400" src="ts.png"/>
 
 Stickers available at [RedBubble](http://www.redbubble.com/people/owerreloaded/works/17165938-typescript?p=sticker)
 
@@ -23,7 +23,7 @@ Tshirt available at [RedBubble](http://www.redbubble.com/people/owerreloaded/wor
 
 Stickers available at [Stickermule](https://www.stickermule.com/marketplace/10074-typescript)
 
-![](https://d21ii91i3y6o6h.cloudfront.net/gallery_images/from_proof/10074/large/1455714081/typescript.png)
+<img width=400" src="https://d21ii91i3y6o6h.cloudfront.net/gallery_images/from_proof/10074/large/1455714081/typescript.png"/>
 
 Anders Hejlsberg approves :+1:
 
@@ -33,5 +33,7 @@ Anders Hejlsberg approves :+1:
 Here you can find some alternative versions of the logo:
 
 ## Functional TypeScript
-[![](https://raw.githubusercontent.com/remojansen/logo.ts/master/stickers/fp.png)](https://www.redbubble.com/people/owerreloaded/works/22702423-functional-programming-typescript?asc=u&p=sticker&size=small)
+<img width=400" src="stickers/fp.png"/>
+
+Stickers available at [RedBubble](https://www.redbubble.com/people/owerreloaded/works/22702423-functional-programming-typescript?asc=u&p=sticker&size=small)
 
