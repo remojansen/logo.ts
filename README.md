@@ -34,7 +34,8 @@ Here you can find some alternative versions of the logo:
 
 ## Functional TypeScript
 ![](https://raw.githubusercontent.com/remojansen/logo.ts/master/stickers/tshirt.jpg)
-![]([stickers/fp.png)
+
+![]([https://raw.githubusercontent.com/remojansen/logo.ts/master/stickers/fp.png)
 
 Stickers available at [RedBubble](https://www.redbubble.com/people/owerreloaded/works/22702423-functional-programming-typescript?asc=u&p=sticker&size=small)
 
