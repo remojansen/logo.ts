@@ -23,7 +23,7 @@ Tshirt available at [RedBubble](http://www.redbubble.com/people/owerreloaded/wor
 
 Stickers available at [Stickermule](https://www.stickermule.com/marketplace/10074-typescript)
 
-<img width=400" src="https://d21ii91i3y6o6h.cloudfront.net/gallery_images/from_proof/10074/large/1455714081/typescript.png"/>
+![](https://d21ii91i3y6o6h.cloudfront.net/gallery_images/from_proof/10074/large/1455714081/typescript.png)
 
 Anders Hejlsberg approves :+1:
 
@@ -33,7 +33,8 @@ Anders Hejlsberg approves :+1:
 Here you can find some alternative versions of the logo:
 
 ## Functional TypeScript
-<img width=400" src="stickers/fp.png"/>
+![](https://raw.githubusercontent.com/remojansen/logo.ts/master/stickers/tshirt.jpg)
+![]([stickers/fp.png)
 
 Stickers available at [RedBubble](https://www.redbubble.com/people/owerreloaded/works/22702423-functional-programming-typescript?asc=u&p=sticker&size=small)
 
