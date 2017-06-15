@@ -37,3 +37,10 @@ Here you can find some alternative versions of the logo:
 
 Stickers available at [RedBubble](https://www.redbubble.com/people/owerreloaded/works/22702423-functional-programming-typescript?asc=u&p=sticker&size=small)
 
+## Full Stack TypeScript
+
+Stickers available at [RedBubble](https://www.redbubble.com/people/owerreloaded/works/26822909-full-stack-typescript)
+
+![TS Logo (PNG)](stickers/fs_ts.png)
+
+
