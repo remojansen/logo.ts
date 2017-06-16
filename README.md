@@ -43,4 +43,11 @@ Stickers available at [RedBubble](https://www.redbubble.com/people/owerreloaded/
 
 ![TS Logo (PNG)](stickers/fs_ts.png)
 
+## TANA Stack: TypeScript + Angular + Node.js + Azure
+
+Stickers available at [RedBubble](https://www.redbubble.com/people/owerreloaded/works/26835502-tana-stack-typescript-angular-node-js-and-azure)
+
+![TS Logo (PNG)](stickers/tana_ts.png)
+
+
 
