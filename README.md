@@ -50,4 +50,4 @@ Stickers available at [RedBubble](https://www.redbubble.com/people/owerreloaded/
 ![TS Logo (PNG)](stickers/tana_ts.png)
 
 
-
+![TS Logo (PNG)](dublin_typescript.png)
