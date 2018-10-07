@@ -55,5 +55,5 @@ Stickers available at [RedBubble](https://www.redbubble.com/people/owerreloaded/
 
 ## Sevilla TypeScript Meetup
 
-![TS Logo (PNG)](stickers/sevilla_typescript.png)
+![TS Logo (PNG)](stickers/sevilla_sqv_typescript.png)
 
