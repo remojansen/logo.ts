@@ -57,3 +57,6 @@ Stickers available at [RedBubble](https://www.redbubble.com/people/owerreloaded/
 
 ![TS Logo (PNG)](stickers/sevilla_sqv_typescript.png)
 
+# Japan TypeScript Meetup
+
+![TS Logo (PNG)](stickers/japan_typescript_meetup.png)
