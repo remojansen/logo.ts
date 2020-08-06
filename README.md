@@ -1,4 +1,8 @@
-A community logo for TypeScript 
+The 2020 TypeScript logo is highly influenced by this design, you can get the new design assets from [typescriptlang.org/branding/](https://www.typescriptlang.org/branding/)
+
+<a href="https://www.typescriptlang.org/branding/"><img src ="./ts-logo.png"></a>
+
+A deprecated community logo for TypeScript 
 ================================
 
 > **NOTE** This is NOT the official TypeScript logo. The official TypeScript logo can be found [here](https://github.com/Microsoft/TypeScript/blob/master/doc/logo.svg).
