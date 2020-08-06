@@ -1,11 +1,13 @@
-The 2020 TypeScript logo is highly influenced by this design, you can get the new design assets from [typescriptlang.org/branding/](https://www.typescriptlang.org/branding/)
+The TypeScript logo is highly influenced by this design, you can get the new design assets from [typescriptlang.org/branding/](https://www.typescriptlang.org/branding/)
 
-<a href="https://www.typescriptlang.org/branding/"><img src ="./ts-logo.png"></a>
+<p align="center"><a href="https://www.typescriptlang.org/branding/"><img src ="./ts-logo.png"></a></p>
 
-A deprecated community logo for TypeScript 
+---
+
+A (now deprecated) community logo for TypeScript 
 ================================
 
-> **NOTE** This is NOT the official TypeScript logo. The official TypeScript logo can be found [here](https://github.com/Microsoft/TypeScript/blob/master/doc/logo.svg).
+> **NOTE** This is NOT the official TypeScript logo. The official TypeScript logo can be found [here](https://www.typescriptlang.org/branding/).
 
 I wanted to add a [TypeScript](http://www.typescriptlang.org/) sticker to my laptop but I could not find what I was looking for so I decided to create a typed superset of [logo.js](https://github.com/voodootikigod/logo.js).
 
